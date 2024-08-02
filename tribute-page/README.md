@@ -1,4 +1,4 @@
-# freeCodeCamp tribute page
+# Tribute page
 
 Tribute page for the Responsive Web Design Certification at freeCodeCamp.
 

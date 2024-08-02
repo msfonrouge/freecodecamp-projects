@@ -1,4 +1,4 @@
-# freeCodeCamp technical documentation page
+# Technical documentation page
 
 Technical documentation page for the Responsive Web Design Certification at freeCodeCamp.
 

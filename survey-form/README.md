@@ -1,4 +1,4 @@
-# freeCodeCamp survey form
+# Survey form
 
 Survey form for the Responsive Web Design Certification at freeCodeCamp.
 
